@@ -1,4 +1,4 @@
-# jquery.fancybox-1.3.4-webdesign
+# fancybox-1.3.4-webdesign
 jquery.fancybox-1.3.4 <a href="http://fancybox.net/">go website</a>
 
 ## `1` buat file dengan nama bebas
